@@ -4,3 +4,5 @@
 out
 gen
 *.csv
+__pycache__
+
